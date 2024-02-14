@@ -1,5 +1,5 @@
 # Projet-tutoriel
-Introduction au problème d’affaire en lien avec la bibliothèque Panda  
+Introduction au problème d’affaire en lien avec la bibliothèque Panda
 
   
 
